@@ -1,0 +1,16 @@
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\obj\Debug\GmxConverter.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\GmxConverter.exe.config
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\GmxConverter.exe
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\GmxConverter.pdb
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\OpenTK.dll
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\SuperBMDLib.dll
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\Syroot.BinaryData.dll
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\Syroot.Maths.dll
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\Toolbox.Core.dll
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\Syroot.BinaryData.xml
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\Toolbox.Core.pdb
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\obj\Debug\GmxConverter.csproj.CopyComplete
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\obj\Debug\GmxConverter.exe
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\obj\Debug\GmxConverter.pdb
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\bin\Debug\EndianBinaryStreams.dll
+C:\Users\Nathan\source\repos\GmxConverter\GmxConverter\obj\Debug\GmxConverter.csprojAssemblyReference.cache
